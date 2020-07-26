@@ -7,11 +7,5 @@ puts " #{board[3]} #{separator} #{board[4]} #{separator} #{board[5]} "
 puts "#{lines}"
 puts " #{board[6]} #{separator} #{board[7]} #{separator} #{board[8]} "
 
- puts "   |   |   "
- puts "-----------"
- puts "   |   |   "
- puts "-----------"
- puts "   |   |   "
-
+ 
 end
-display_board
