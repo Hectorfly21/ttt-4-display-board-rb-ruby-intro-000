@@ -14,3 +14,4 @@ puts " #{board[6]} #{separator} #{board[7]} #{separator} #{board[8]} "
  puts "   |   |   "
 
 end
+display_board
